@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ZMR",
+    "esc": "Favorite/LittleBee-20A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "ReadyMadeRC/Seriously-Dodo",
+    "prop": [
+      "Gemfan/5x4.5-FG-BN"
+    ],
+    "arm": "",
+    "battery": [
+      "Dinogy/3S-1300mAh-65C"
+    ],
+    "osd": "MultiRotorMania/MicroOSD",
+    "receiver": "FrSky/X4RSB",
+    "flightcam": "Surveilzone/HS1177M-Sony-Super-HAD-II-(Micro)",
+    "hqcam": "",
+    "videotx": "Eachine/700tvl-ET200--5.8G-32CH-200mW-Mini-Transmitter",
+    "blackbox": "MultiRotorMania/Flight-Data-Logger",
+    "voltagereg": ""
+  },
+  "version": 1
 }
